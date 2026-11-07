@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana arsitektur dan peningkatan antarmuka mobile-first Merys Kitchen: implementasi bottom navigation bar ergonomis, kartu makanan satu kolom berukuran penuh dengan touch target minimum 44px, dan koordinasi sticky surfaces tanpa tumpukan untuk kenyamanan share ke pengguna smartphone.",
+  "updatedAt":  "2026-11-07T13:06:18.681282055Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

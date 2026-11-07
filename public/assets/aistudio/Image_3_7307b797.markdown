@@ -1,0 +1,248 @@
+---
+name: Jamuan Nusantara Hospitality
+colors:
+  surface: '#f6fbf5'
+  surface-dim: '#d7dbd6'
+  surface-bright: '#f6fbf5'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f0f5f0'
+  surface-container: '#ebefea'
+  surface-container-high: '#e5e9e4'
+  surface-container-highest: '#dfe4df'
+  on-surface: '#181d1a'
+  on-surface-variant: '#414941'
+  inverse-surface: '#2c322e'
+  inverse-on-surface: '#edf2ed'
+  outline: '#717971'
+  outline-variant: '#c1c9bf'
+  surface-tint: '#386846'
+  primary: '#265737'
+  on-primary: '#ffffff'
+  primary-container: '#3f704d'
+  on-primary-container: '#bbf1c5'
+  inverse-primary: '#9ed3a9'
+  secondary: '#ac3311'
+  on-secondary: '#ffffff'
+  secondary-container: '#ff6e48'
+  on-secondary-container: '#651400'
+  tertiary: '#634a00'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#806100'
+  on-tertiary-container: '#ffe1a0'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#b9efc4'
+  primary-fixed-dim: '#9ed3a9'
+  on-primary-fixed: '#00210d'
+  on-primary-fixed-variant: '#1f5030'
+  secondary-fixed: '#ffdbd1'
+  secondary-fixed-dim: '#ffb4a1'
+  on-secondary-fixed: '#3c0800'
+  on-secondary-fixed-variant: '#881f00'
+  tertiary-fixed: '#ffdf99'
+  tertiary-fixed-dim: '#ecc15a'
+  on-tertiary-fixed: '#251a00'
+  on-tertiary-fixed-variant: '#5a4300'
+  background: '#f6fbf5'
+  on-background: '#181d1a'
+  surface-variant: '#dfe4df'
+typography:
+  display-lg:
+    fontFamily: Noto Serif
+    fontSize: 40px
+    fontWeight: '600'
+    lineHeight: 48px
+    letterSpacing: -0.02em
+  display-lg-mobile:
+    fontFamily: Noto Serif
+    fontSize: 30px
+    fontWeight: '600'
+    lineHeight: 38px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Noto Serif
+    fontSize: 28px
+    fontWeight: '600'
+    lineHeight: 36px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Noto Serif
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 30px
+    letterSpacing: 0em
+  headline-sm:
+    fontFamily: Noto Serif
+    fontSize: 18px
+    fontWeight: '600'
+    lineHeight: 26px
+    letterSpacing: 0em
+  body-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 26px
+    letterSpacing: 0em
+  body-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 22px
+    letterSpacing: 0em
+  body-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 18px
+    letterSpacing: 0.01em
+  label-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.02em
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.03em
+  label-caps:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 10px
+    fontWeight: '700'
+    lineHeight: 14px
+    letterSpacing: 0.08em
+rounded:
+  sm: 0.125rem
+  DEFAULT: 0.25rem
+  md: 0.375rem
+  lg: 0.5rem
+  xl: 0.75rem
+  full: 9999px
+spacing:
+  gutter: 1rem
+  gutter-mobile: 0.75rem
+  margin: 2rem
+  margin-mobile: 1rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+The visual narrative channels the culinary grandeur of high-end Indonesian banquets and aristocratic hospitality (Rijsttafel modern & Prasmanan Luhur). It balances organic epicurean warmth with curated, editorial clarity. The aesthetic rejects sterile tech minimalism in favor of an organic, sensory-rich editorial style: warmth, herbal freshness, natural spices, and refined hospitality.
+
+The target audience comprises event hosts, corporate planners, wedding organizers, and discerning culinary enthusiasts who value heritage authenticity combined with modern culinary execution. The emotional response must evoke culinary prestige, absolute hygiene, freshness of raw ingredients, and effortless event hosting.
+
+Visual execution centers around tactile culinary editorial layouts: generous warm ivory canvases, botanical leaf green accents, rich spice terracotta counter-accents, crisp classic serif headings that honor culinary heritage, and high-legibility geometric sans-serif functional copy.
+
+## Colors
+
+The color palette is derived directly from the indigenous larder of the Indonesian archipelago: fresh foliage, cold-pressed herbs, aromatic spices, and polished stoneware.
+
+- **Primary (`#3F704D` - Daun Pandan & Kemangi):** Anchors the brand identity, symbolizing fresh herbs, sustainable sourcing, and crisp garden vitality. Applied to primary calls to action, active navigation states, verified certificates, and primary brand markers.
+- **Secondary (`#D9532F` - Cabai & Bumbu Rempah):** A warm, stimulating terracotta vermilion that triggers appetite and signals urgency. Used for featured package highlights, discount flags, dietary notices, and decisive primary interaction cues.
+- **Tertiary (`#C29B38` - Kunyit Emas):** An earthy gold accent representing celebratory feasts, tumpeng rituals, and VIP catering tiers.
+- **Neutral & Surface Hierarchy:**
+  - **Base Canvas (`#FDFBF7` - Santan Murni / Warm Ivory):** Replaces harsh sterile white with a rich, welcoming porcelain backdrop.
+  - **Surface Elevated (`#FFFFFF` - Crisp Linen):** Used for elevated cards, active modals, and photo frames.
+  - **Neutral Dark (`#1F2421` - Arang Bakar / Charcoal Deep):** High-contrast, warm dark grey for high-fidelity editorial typography, replacing stark digital black.
+  - **Muted Gray-Green (`#6B7A6F`):** For secondary metadata, dietary disclaimers, and subtle borders.
+  - **Soft Neutral Fill (`#F3EFE6`):** For input fields, unselected tags, and subtle dividers.
+
+## Typography
+
+The typography leverages an intentional editorial pairing:
+
+1. **Noto Serif (Headlines & Editorial Callouts):** Infuses centuries-old dignity, culinary authenticity, and the ceremonial cadence of Indonesian royal banqueting. Its sharp serifs render dish names like *Rendang Daging Sapi Marapi* or *Nasi Liwet Keprabon* with tactile prestige.
+2. **Plus Jakarta Sans (Body, Labels, & Interactive Elements):** A contemporary Indonesian-designed typeface that excels on mobile screens. Its open counters and geometric humanism deliver effortless legibility for ingredient lists, allergy tags, delivery timelines, and price breakdowns.
+
+**Usage Rules:**
+- Menu titles and section introductions must always utilize `Noto Serif`.
+- Nutritional information, batch quantities, allergen flags, and system metrics must utilize `Plus Jakarta Sans` with strict adherence to weights (`400` for narrative descriptions, `600` and `700` for key decision variables).
+- Never set running body text longer than two sentences in `Noto Serif`.
+
+## Layout & Spacing
+
+The design system prioritizes a **Mobile-First Responsive Grid** optimized for on-the-go catering orders, event consultation, and dynamic multi-day delivery coordination:
+
+- **Mobile Web App Core Grid (≤ 640px):**
+  - Columns: 4 fluid columns.
+  - Outer Canvas Margin: `1rem` (16px).
+  - Column Gutters: `0.75rem` (12px).
+  - Food card galleries adopt horizontal scroll snaps (`overflow-x: auto`) with partial visibility (peek factor of 15%) to stimulate appetite discovery.
+- **Tablet / Desktop Shell (641px - 1200px+):**
+  - Columns: 12 fluid columns, constrained to a maximum content width of 1180px with centered margins.
+  - Column Gutters: `1rem` (16px) scaling to `1.5rem` (24px).
+  - Margin: `2rem` (32px).
+
+**Vertical Spacing Cadence:**
+- Use `space-xs` (4px) and `space-sm` (8px) for tightly coupled visual groups (e.g., dish title to portion counter, badge to item title).
+- Use `space-md` (16px) for interior padding of cards, text field insets, and list spacing.
+- Use `space-lg` (24px) for inter-card separation and modal padding.
+- Use `space-xl` (40px) to separate culinary categories (e.g., *Menu Prasmanan*, *Nasi Kotak Premium*, *Jajanan Pasar*).
+
+## Elevation & Depth
+
+Depth is established through soft, botanical ambient shadows coupled with physical layer stacking, avoiding artificial neon glow or harsh digital drop shadows:
+
+- **Level 0 (Flat Base):** Pure Ivory `#FDFBF7`. Flat menus, section dividers, and table surfaces.
+- **Level 1 (Culinary Cards & Food Displays):** `#FFFFFF` surfaces with subtle organic ambient tinting: `0px 4px 16px -2px rgba(31, 36, 33, 0.05)`. Outlined with a fine botanical border: `1px solid rgba(63, 112, 77, 0.08)`.
+- **Level 2 (Active Dropdowns, Floating Stepper, Sticky Checkout Bar):** `0px 10px 24px -4px rgba(31, 36, 33, 0.09)`. Provides immediate physical distinction for interactive purchasing tools.
+- **Level 3 (Modal Menus, Date/Time Delivery Sheet):** Deep diffuse shadow: `0px 20px 32px -8px rgba(31, 36, 33, 0.16)`. Combined with a backdrop blur of `backdrop-filter: blur(8px)` with a 35% `#1F2421` scrim.
+
+No harsh borders; depth mimics crisp organic packaging and porcelain banquet service plates.
+
+## Shapes
+
+The design system employs **Soft Structural Shaping (Level 1)**. This geometry aligns with the stately, artisanal presentation of high-end catering vessels (besek premium, bento kayu luhur, dan piring tembikar):
+
+- **Core Radius (`rounded` = 0.25rem / 4px):** Applied to form text inputs, small status badges, and stepper step markers.
+- **Card & Component Radius (`rounded-lg` = 0.5rem / 8px):** Applied to food menu cards, date pickers, category containers, and bottom sheets.
+- **Feature Radius (`rounded-xl` = 0.75rem / 12px):** Reserved for hero promotion carousels and recipe spotlight cards.
+- **Pill Shape Exception:** Dietary tags (`Halal MUI`, `Porsi 50-100 Pax`, `Gluten-Free`) and interactive quantity selectors (`+ / -`) adopt fully rounded pill curves (`9999px`) to immediately signal interactive filter/touch capabilities without clashing with the architectural cards.
+
+## Components
+
+### 1. Buttons & Call to Actions
+- **Primary Action (Pesan Sekarang / Konfirmasi Jadwal):** Solid `#3F704D` fill with `#FFFFFF` text in `label-lg`. Padding: `12px 20px`. Radius: `4px`. Hover/Active: `#325B3E` with subtle micro-scale down (`transform: scale(0.99)`).
+- **Secondary Culinary Action (Pilih Varian Rempah / Kustomisasi Menu):** Transparent fill with `1.5px` border in `#3F704D`, text `#3F704D`.
+- **Destructive / Urgency Alert (Batalkan Pesanan / Waktu Habis):** `#D9532F` terracotta fill or ghost outline.
+
+### 2. Food Menu Card (Photography-Centric)
+- Card base: Pure `#FFFFFF` surface with `8px` rounded corners and subtle shadow.
+- Imagery: 4:3 aspect ratio photo container with subtle gradient vignette (`inset 0 -24px 32px rgba(0,0,0,0.2)`) on the lower edge.
+- Overlay Tag: Top-left pill tag in `#FFFFFF` with `#3F704D` text indicating `Halal Certified 100%`.
+- Lower Section: `Noto Serif` dish title (`headline-sm`), followed by a two-line ingredient summary in `#6B7A6F` (`body-sm`), pricing in bold `Plus Jakarta Sans` (`label-lg`), and an embedded quick-add pill counter (`- 1 +`).
+
+### 3. Diet & Specification Chips
+- Pill geometry (`9999px`), `6px 14px` padding.
+- **Default State:** Background `#F3EFE6`, text `#1F2421` in `label-md`.
+- **Selected Filter State:** Background `#3F704D`, text `#FFFFFF`.
+- **Dietary Warning / Spice Indicator:** Background `#FDF0ED`, border `1px solid #D9532F`, text `#D9532F` (e.g., `Level Pedas: Sedang`).
+
+### 4. Status Badges
+- Micro-indicators for order status (`Menunggu Pembayaran`, `Dapur Menyiapkan`, `Dalam Pengiriman`, `Selesai`):
+  - In Preparation: `#F7F2E7` bg, `#C29B38` text with a pulse dot.
+  - On Delivery: `#EAF2EC` bg, `#3F704D` text with a vehicle icon.
+  - Confirmed / Complete: Solid `#3F704D` text badge.
+
+### 5. Delivery Schedule Calendar & Stepper
+- Stepper component representing multi-day catering workflows:
+  - Step 1: Pilih Menu & Porsi
+  - Step 2: Tanggal & Lokasi Jamuan
+  - Step 3: Pengaturan Tim Waiter & Alat
+  - Step 4: Selesai & Pembayaran DP
+- Connected with a `2px` path line in `#3F704D` (completed steps) and `#E0DDD5` (upcoming steps).
+- Calendar date selection: Minimalist month grid; selected banquet date highlighted in `#D9532F` circle, available slots in `#3F704D` soft green tint, blackout slots struck through.
+
+### 6. Input Fields & Form Controls
+- Inputs feature `#F3EFE6` warm background in default state, transitioning to `#FFFFFF` with a `1.5px` solid `#3F704D` border on focus.
+- Labels sit above the field in `Plus Jakarta Sans` `label-md` `#1F2421`.
+- Stepper counters for pax/portions feature wide thumb targets (minimum 44x44px touch area) to accommodate mobile catering configuration.

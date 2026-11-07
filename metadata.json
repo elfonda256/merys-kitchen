@@ -1,0 +1,6 @@
+{
+  "name": "Jamuan Nusantara Hospitality",
+  "description": "High-end Indonesian banquet and aristocratic catering hospitality system (Rijsttafel modern & Prasmanan Luhur) with multi-day event scheduling and bespoke culinary curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Noto Serif', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+
+  --color-primary: #3F704D;
+  --color-primary-dark: #265737;
+  --color-primary-light: #EAF2EC;
+  --color-secondary: #D9532F;
+  --color-secondary-light: #FDF0ED;
+  --color-tertiary: #C29B38;
+  --color-tertiary-light: #F7F2E7;
+  --color-canvas: #FDFBF7;
+  --color-charcoal: #1F2421;
+  --color-muted: #6B7A6F;
+  --color-warm-fill: #F3EFE6;
+  --color-surface-card: #FFFFFF;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  background-color: #FDFBF7;
+  color: #1F2421;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, .font-editorial {
+  font-family: 'Noto Serif', Georgia, serif;
+}
+
+/* Custom elevations as specified in design system */
+.elevation-0 {
+  background-color: #FDFBF7;
+}
+
+.elevation-1 {
+  background-color: #FFFFFF;
+  box-shadow: 0px 4px 16px -2px rgba(31, 36, 33, 0.05);
+  border: 1px solid rgba(63, 112, 77, 0.08);
+}
+
+.elevation-2 {
+  box-shadow: 0px 10px 24px -4px rgba(31, 36, 33, 0.09);
+}
+
+.elevation-3 {
+  box-shadow: 0px 20px 32px -8px rgba(31, 36, 33, 0.16);
+}
+
+/* Hide scrollbar for smooth carousel */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
